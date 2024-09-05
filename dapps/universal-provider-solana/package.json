@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
-    "@solana/web3.js": "^1.78.4",
+    "@solana/web3.js": "^1.95.1",
     "@walletconnect/modal": "^2.6.2",
     "@walletconnect/universal-provider": "^2.10.1",
     "bs58": "^5.0.0",
