@@ -11,8 +11,8 @@
     "prettier:write": "prettier --write '**/*.{js,ts,jsx,tsx}'"
   },
   "dependencies": {
-    "@celo/wallet-base": "^5.1.1",
-    "@ethereumjs/tx": "^3.5.0",
+    "@celo/wallet-base": "^6.0.0",
+    "@ethereumjs/tx": "^4.0.0",
     "@kadena/client": "^0.5.0",
     "@kadena/cryptography-utils": "^0.4.0",
     "@kadena/types": "^0.6.0",
@@ -31,7 +31,7 @@
     "cosmos-wallet": "^1.2.0",
     "eth-sig-util": "^2.5.3",
     "ethereumjs-util": "^7.0.6",
-    "ethers": "^5.3.0",
+    "ethers": "^6.0.0",
     "fp-ts": "^2.13.1",
     "next": "12.2.4",
     "prop-types": "^15.7.2",
@@ -39,10 +39,10 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-hot-toast": "^2.4.1",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.0",
     "solana-wallet": "^1.0.1",
     "styled-components": "^5.2.0",
-    "tronweb": "^4.4.0",
+    "tronweb": "^5.3.0",
     "web-vitals": "^0.2.4"
   },
   "devDependencies": {
